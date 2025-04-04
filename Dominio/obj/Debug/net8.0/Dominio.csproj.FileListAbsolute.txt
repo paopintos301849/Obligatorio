@@ -1,0 +1,11 @@
+/Users/personal/RiderProjects/Obligatorio1/Dominio/bin/Debug/net8.0/Dominio.deps.json
+/Users/personal/RiderProjects/Obligatorio1/Dominio/bin/Debug/net8.0/Dominio.dll
+/Users/personal/RiderProjects/Obligatorio1/Dominio/bin/Debug/net8.0/Dominio.pdb
+/Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/Dominio.AssemblyInfoInputs.cache
+/Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/Dominio.AssemblyInfo.cs
+/Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/Dominio.csproj.CoreCompileInputs.cache
+/Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/Dominio.dll
+/Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/refint/Dominio.dll
+/Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/Dominio.pdb
+/Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/ref/Dominio.dll
