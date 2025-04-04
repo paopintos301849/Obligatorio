@@ -16,3 +16,4 @@
 /Users/personal/RiderProjects/Obligatorio1/Consola/obj/Debug/net8.0/Consola.pdb
 /Users/personal/RiderProjects/Obligatorio1/Consola/obj/Debug/net8.0/Consola.genruntimeconfig.cache
 /Users/personal/RiderProjects/Obligatorio1/Consola/obj/Debug/net8.0/ref/Consola.dll
+/Users/personal/RiderProjects/Obligatorio1/Consola/obj/Debug/net8.0/Consola.sourcelink.json

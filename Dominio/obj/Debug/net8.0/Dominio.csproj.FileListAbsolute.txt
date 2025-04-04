@@ -9,3 +9,4 @@
 /Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/refint/Dominio.dll
 /Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/Dominio.pdb
 /Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/ref/Dominio.dll
+/Users/personal/RiderProjects/Obligatorio1/Dominio/obj/Debug/net8.0/Dominio.sourcelink.json
